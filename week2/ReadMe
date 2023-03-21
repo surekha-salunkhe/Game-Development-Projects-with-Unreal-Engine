@@ -1,0 +1,9 @@
+Create Scene with a Builiding 
+South Wing, North Wing - Two Floors, Lobby
+Lobby should have East and West facing stairs, stairs to reach to second floor of South Wing and Lift to reach second floor of North Wing
+(Lift working will be in later chapter)
+Create Door to enter into First and Second floor for Both Wings
+Create main entrance doors in Lobby (East and West)
+Animate these door such that once the player is near the door it should open and then close once player is away (Use Triggers)
+Create 9 windows on each east-west wall of South Wing and North Wing
+Add texture to walls, floor, ceilings, stairs, lift
